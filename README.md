@@ -24,9 +24,8 @@ Hey there!
 </a>
 </div>
 
-<div align="center">
-  <I am a Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.>
-</div>
+
+I am a Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
  
  
 
