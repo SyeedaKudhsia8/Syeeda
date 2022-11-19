@@ -24,8 +24,10 @@ Hey there!
 </a>
 </div>
 
-
-  I am a Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<div align="center">
+  <I am a Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.>
+</div>
+ 
  
 
 - :TMLC: I’m currently doing my internship at TheMachineLearningCompany
